@@ -1,0 +1,9 @@
+body{
+    background: powderblue;
+}
+
+#character{
+    width: 256px; 
+    height: 256px; 
+    background: url('https://i.imgur.com/IHtzcqM.png');
+}
