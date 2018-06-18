@@ -25,8 +25,6 @@ you'd like. Pull requests are warmly welcome.
 
 * **Quentin Carpentier** - *Made it educational* - [qcarpentier](https://github.com/qcarpentier)
 
-See also the list of [contributors](https://github.com/qcarpentier/walking-character/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
